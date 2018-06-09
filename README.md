@@ -1,4 +1,4 @@
-# Nethereum-Blazor-Wasm
+# Nethereum-Blazor-Wasm-Test
 
 This repo provides a starting point for testing the Experimental .Net WASM (Web Assembly) / blazor compatibility with Nethereum (and Metamask integration)
 
